@@ -1,5 +1,5 @@
 function clicking(i){
-    x=document.getElementById("display");
+    x=document.getElementById("result");
     try{
         switch(i){
         case 1: x.value=x.value+1; break;
